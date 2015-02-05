@@ -1,0 +1,23 @@
+{
+  "name": "jPull",
+  "version": "0.0.0",
+  "homepage": "https://github.com/beuted/jPull",
+  "authors": [
+    "Benoit Jehanno <b.jehanno@criteo.com>"
+  ],
+  "keywords": [
+    "feed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.3"
+  }
+}
