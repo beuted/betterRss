@@ -1,24 +1,13 @@
-// .outerHtml patch for jQuery
-$.fn.outerHTML = function(){
- 
-    // IE, Chrome & Safari will comply with the non-standard outerHTML, all others (FF) will have a fall-back for cloning
-    return (!this.length) ? this : (this[0].outerHTML || (
-      function(el){
-          var div = document.createElement('div');
-          div.appendChild(el.cloneNode(true));
-          var contents = div.innerHTML;
-          div = null;
-          return contents;
-    })(this[0]));
- 
-}
-
 /**
- * 
- * @feed_url : url of the rss feed
- * @media : type of media the rss feed comes from, value supported : "default", "tumblr"
+ * BetterRss  : A js lib based using jQuery to parse rss smartly depending on the given rss flow.
+ * Repository : https://github.com/beuted/betterRss 
+ * Author     : Benoit Jehanno
  */
 var betterRss = {
+	/**
+ 	 * @feed_url : url of the rss feed
+ 	 * @media : type of media the rss feed comes from, value supported : "default", "tumblr"
+ 	 */
 	load: function(feed_url, media) {
 		var deferred = $.Deferred();
 
@@ -94,14 +83,14 @@ var betterRss = {
 						break;
 					case "reddit":
 						var datahtml = "<p>" + el.find("description").text() + "</p>";
-						var img_url = $(datahtml).find("a:eq(2)").first().attr("href");
-						//TODO: le link ne peut pas etre recup comme ca il faut passer par "[link]" (marche pas pour /news par ex)
+						var img_url = $(datahtml).find("a:contains('\[link\]')").first().attr("href");
 
 						if (img_url) {
 							item.media_url = img_url;
 							if (img_url.match(/\.(jpeg|jpg|gif|gifv|png)$/) != null) {
 								item.media_element = "img";
-							} else if (true) { //TODO
+								// TODO: wont cover everything : use regex
+							} else if (img_url.indexOf("youtube.com") > -1 || img_url.indexOf("youtu.be") > -1) { 
 								item.media_element = "iframe";
 							} else {
 								item.media_element = "a"
