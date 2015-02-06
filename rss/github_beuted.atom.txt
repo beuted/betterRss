@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/beuted.private</id>
+  <link type="text/html" rel="alternate" href="https://github.com/beuted"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/beuted.private.atom?token=ACvvAWpY8Sua-wsjGV_n2xQpL8E_uleOks6y4K8QwA=="/>
+  <title>Private Feed for beuted</title>
+  <updated>2015-02-04T14:01:48Z</updated>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2557771052</id>
+    <published>2015-02-04T14:01:48Z</published>
+    <updated>2015-02-04T14:01:48Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/beuted/Flox"/>
+    <title type="html">nicolas-t starred beuted/Flox</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/beuted/Flox&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;beuted/Flox&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-04T14:01:48Z&quot; is=&quot;relative-time&quot;&gt;Feb 4, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2555551173</id>
+    <published>2015-02-03T18:24:36Z</published>
+    <updated>2015-02-03T18:24:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/wmdmark/backbone-rivets-example"/>
+    <title type="html">nicolas-t starred wmdmark/backbone-rivets-example</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/wmdmark/backbone-rivets-example&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;wmdmark/backbone-rivets-example&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-03T18:24:36Z&quot; is=&quot;relative-time&quot;&gt;Feb 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2555533097</id>
+    <published>2015-02-03T18:17:33Z</published>
+    <updated>2015-02-03T18:17:33Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mikeric/rivets"/>
+    <title type="html">nicolas-t starred mikeric/rivets</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/mikeric/rivets&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;mikeric/rivets&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-03T18:17:33Z&quot; is=&quot;relative-time&quot;&gt;Feb 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2555439371</id>
+    <published>2015-02-03T17:41:56Z</published>
+    <updated>2015-02-03T17:41:56Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/spacenick/backbone-baguette"/>
+    <title type="html">nicolas-t starred spacenick/backbone-baguette</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/spacenick/backbone-baguette&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;spacenick/backbone-baguette&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-03T17:41:56Z&quot; is=&quot;relative-time&quot;&gt;Feb 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2555419008</id>
+    <published>2015-02-03T17:34:25Z</published>
+    <updated>2015-02-03T17:34:25Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ractivejs/ractive"/>
+    <title type="html">nicolas-t starred ractivejs/ractive</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/ractivejs/ractive&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;ractivejs/ractive&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-03T17:34:25Z&quot; is=&quot;relative-time&quot;&gt;Feb 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2554925255</id>
+    <published>2015-02-03T14:48:05Z</published>
+    <updated>2015-02-03T14:48:05Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/magalhas/backbone-react-component"/>
+    <title type="html">nicolas-t starred magalhas/backbone-react-component</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/magalhas/backbone-react-component&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;magalhas/backbone-react-component&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-03T14:48:05Z&quot; is=&quot;relative-time&quot;&gt;Feb 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2554911625</id>
+    <published>2015-02-03T14:43:10Z</published>
+    <updated>2015-02-03T14:43:10Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/tildeio/htmlbars"/>
+    <title type="html">nicolas-t starred tildeio/htmlbars</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/tildeio/htmlbars&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;tildeio/htmlbars&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-02-03T14:43:10Z&quot; is=&quot;relative-time&quot;&gt;Feb 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2549545403</id>
+    <published>2015-01-31T14:21:49Z</published>
+    <updated>2015-01-31T14:21:49Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/arasatasaygin/is.js"/>
+    <title type="html">nicolas-t starred arasatasaygin/is.js</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/arasatasaygin/is.js&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;arasatasaygin/is.js&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-31T14:21:49Z&quot; is=&quot;relative-time&quot;&gt;Jan 31, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2542720932</id>
+    <published>2015-01-28T18:08:09Z</published>
+    <updated>2015-01-28T18:08:09Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/Matt-Esch/virtual-dom"/>
+    <title type="html">nicolas-t starred Matt-Esch/virtual-dom</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/Matt-Esch/virtual-dom&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;Matt-Esch/virtual-dom&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-28T18:08:09Z&quot; is=&quot;relative-time&quot;&gt;Jan 28, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2532964379</id>
+    <published>2015-01-23T19:43:36Z</published>
+    <updated>2015-01-23T19:43:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/liabru/matter-js"/>
+    <title type="html">nicolas-t starred liabru/matter-js</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/liabru/matter-js&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;liabru/matter-js&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-23T19:43:36Z&quot; is=&quot;relative-time&quot;&gt;Jan 23, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2532548503</id>
+    <published>2015-01-23T16:48:29Z</published>
+    <updated>2015-01-23T16:48:29Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/defuse/swatd"/>
+    <title type="html">nicolas-t starred defuse/swatd</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/defuse/swatd&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;defuse/swatd&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-23T16:48:29Z&quot; is=&quot;relative-time&quot;&gt;Jan 23, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2532543701</id>
+    <published>2015-01-23T16:46:33Z</published>
+    <updated>2015-01-23T16:46:33Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/defuse/swatd"/>
+    <title type="html">nicolas-t starred defuse/swatd</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/defuse/swatd&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;defuse/swatd&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-23T16:46:33Z&quot; is=&quot;relative-time&quot;&gt;Jan 23, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2526567335</id>
+    <published>2015-01-21T13:38:55Z</published>
+    <updated>2015-01-21T13:38:55Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/slevithan/xregexp"/>
+    <title type="html">nicolas-t starred slevithan/xregexp</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/slevithan/xregexp&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;slevithan/xregexp&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-21T13:38:55Z&quot; is=&quot;relative-time&quot;&gt;Jan 21, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2524409190</id>
+    <published>2015-01-20T17:32:49Z</published>
+    <updated>2015-01-20T17:32:49Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gillesbertaux/andy"/>
+    <title type="html">nicolas-t starred gillesbertaux/andy</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent) target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/gillesbertaux/andy&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;gillesbertaux/andy&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-20T17:32:49Z&quot; is=&quot;relative-time&quot;&gt;Jan 20, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2521952524</id>
+    <published>2015-01-19T18:07:55Z</published>
+    <updated>2015-01-19T18:07:55Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/alex/what-happens-when"/>
+    <title type="html">nicolas-t starred alex/what-happens-when</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent) target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/alex/what-happens-when&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;alex/what-happens-when&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-19T18:07:55Z&quot; is=&quot;relative-time&quot;&gt;Jan 19, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2512225618</id>
+    <published>2015-01-14T15:04:23Z</published>
+    <updated>2015-01-14T15:04:23Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/saeedalipoor/icono"/>
+    <title type="html">nicolas-t starred saeedalipoor/icono</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/saeedalipoor/icono&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;saeedalipoor/icono&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-14T15:04:23Z&quot; is=&quot;relative-time&quot;&gt;Jan 14, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2504585927</id>
+    <published>2015-01-10T11:32:34Z</published>
+    <updated>2015-01-10T11:32:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/bliker/cmder"/>
+    <title type="html">nicolas-t starred bliker/cmder</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/bliker/cmder&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;bliker/cmder&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-10T11:32:34Z&quot; is=&quot;relative-time&quot;&gt;Jan 10, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2503736871</id>
+    <published>2015-01-09T20:19:05Z</published>
+    <updated>2015-01-09T20:19:05Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mentionapp/apns.go"/>
+    <title type="html">nicolas-t starred mentionapp/apns.go</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/mentionapp/apns.go&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;mentionapp/apns.go&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-09T20:19:05Z&quot; is=&quot;relative-time&quot;&gt;Jan 9, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2496192369</id>
+    <published>2015-01-06T17:41:45Z</published>
+    <updated>2015-01-06T17:41:45Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/sophron/wifiphisher"/>
+    <title type="html">nicolas-t starred sophron/wifiphisher</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/sophron/wifiphisher&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;sophron/wifiphisher&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-06T17:41:45Z&quot; is=&quot;relative-time&quot;&gt;Jan 6, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2495296938</id>
+    <published>2015-01-06T09:36:12Z</published>
+    <updated>2015-01-06T09:36:12Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mcarella/wormhole"/>
+    <title type="html">nicolas-t starred mcarella/wormhole</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/mcarella/wormhole&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;mcarella/wormhole&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-06T09:36:12Z&quot; is=&quot;relative-time&quot;&gt;Jan 6, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2491394838</id>
+    <published>2015-01-03T12:14:53Z</published>
+    <updated>2015-01-03T12:14:53Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/pawREP/CSGO-aim-heatmaps"/>
+    <title type="html">nicolas-t starred pawREP/CSGO-aim-heatmaps</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/pawREP/CSGO-aim-heatmaps&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;pawREP/CSGO-aim-heatmaps&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-03T12:14:53Z&quot; is=&quot;relative-time&quot;&gt;Jan 3, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2490668907</id>
+    <published>2015-01-02T18:18:28Z</published>
+    <updated>2015-01-02T18:18:28Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/daniel-lundin/snabbt.js"/>
+    <title type="html">nicolas-t starred daniel-lundin/snabbt.js</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/daniel-lundin/snabbt.js&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;daniel-lundin/snabbt.js&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2015-01-02T18:18:28Z&quot; is=&quot;relative-time&quot;&gt;Jan 2, 2015&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2488185121</id>
+    <published>2014-12-30T22:49:56Z</published>
+    <updated>2014-12-30T22:49:56Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom-shell"/>
+    <title type="html">nicolas-t starred atom/atom-shell</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/atom/atom-shell&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;atom/atom-shell&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-30T22:49:56Z&quot; is=&quot;relative-time&quot;&gt;Dec 30, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2486535480</id>
+    <published>2014-12-29T21:29:25Z</published>
+    <updated>2014-12-29T21:29:25Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/msysgit/msysgit"/>
+    <title type="html">nicolas-t starred msysgit/msysgit</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/msysgit/msysgit&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;msysgit/msysgit&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-29T21:29:25Z&quot; is=&quot;relative-time&quot;&gt;Dec 29, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2485669282</id>
+    <published>2014-12-29T10:15:46Z</published>
+    <updated>2014-12-29T10:15:46Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mauricesvay/css-color-palette-extractor"/>
+    <title type="html">nicolas-t starred mauricesvay/css-color-palette-extractor</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/mauricesvay/css-color-palette-extractor&quot; class=&quot;css-truncate css-truncate-target&quot;&gt;mauricesvay/css-color-palette-extractor&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-29T10:15:46Z&quot; is=&quot;relative-time&quot;&gt;Dec 29, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2484110542</id>
+    <published>2014-12-27T00:11:43Z</published>
+    <updated>2014-12-27T00:11:43Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/mozilla/localForage"/>
+    <title type="html">nicolas-t starred mozilla/localForage</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/mozilla/localForage&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;mozilla/localForage&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-27T00:11:43Z&quot; is=&quot;relative-time&quot;&gt;Dec 27, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2484109920</id>
+    <published>2014-12-27T00:10:26Z</published>
+    <updated>2014-12-27T00:10:26Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/brianleroux/lawnchair"/>
+    <title type="html">nicolas-t starred brianleroux/lawnchair</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/brianleroux/lawnchair&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;brianleroux/lawnchair&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-27T00:10:26Z&quot; is=&quot;relative-time&quot;&gt;Dec 27, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2484109185</id>
+    <published>2014-12-27T00:08:51Z</published>
+    <updated>2014-12-27T00:08:51Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ChiperSoft/Kalendae"/>
+    <title type="html">nicolas-t starred ChiperSoft/Kalendae</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/ChiperSoft/Kalendae&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;ChiperSoft/Kalendae&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-27T00:08:51Z&quot; is=&quot;relative-time&quot;&gt;Dec 27, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2482324767</id>
+    <published>2014-12-24T17:53:01Z</published>
+    <updated>2014-12-24T17:53:01Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/flarum/core"/>
+    <title type="html">nicolas-t starred flarum/core</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/flarum/core&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;flarum/core&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-24T17:53:01Z&quot; is=&quot;relative-time&quot;&gt;Dec 24, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:WatchEvent/2480813856</id>
+    <published>2014-12-23T17:25:31Z</published>
+    <updated>2014-12-23T17:25:31Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/roadiz/roadiz"/>
+    <title type="html">nicolas-t starred roadiz/roadiz</title>
+    <author>
+      <name>nicolas-t</name>
+      <email></email>
+      <uri>https://github.com/nicolas-t</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1765930?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- watch --&gt;
+&lt;div class=&quot;simple&quot;&gt;
+  &lt;span class=&quot;octicon octicon-star&quot;&gt;&lt;/span&gt;
+
+  &lt;div class=&quot;title&quot;&gt;
+    &lt;a href=&quot;https://github.com/nicolas-t&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:actor&quot;&gt;nicolas-t&lt;/a&gt; &lt;span&gt;starred&lt;/span&gt; &lt;a href=&quot;https://github.com/roadiz/roadiz&quot; class=&quot;css-truncate css-truncate-target&quot; data-ga-click=&quot;News feed, event click, Event click type:WatchEvent target:repo&quot;&gt;roadiz/roadiz&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;time&quot;&gt;
+    &lt;time datetime=&quot;2014-12-23T17:25:31Z&quot; is=&quot;relative-time&quot;&gt;Dec 23, 2014&lt;/time&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
